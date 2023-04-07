@@ -18,7 +18,7 @@ VMESS_WSPATH=${VMESS_WSPATH:-'/vmess'}
 VLESS_WSPATH=${VLESS_WSPATH:-'/vless'}
 URL=${USER}.alwaysdata.net
 
-wget -q -O $TMP_DIRECTORY/config.json https://raw.githubusercontent.com/hiifeng/V2ray-for-Doprax/main/config.json
+wget -q -O $TMP_DIRECTORY/config.json https://raw.githubusercontent.com/hiifeng/V2ray-for-AlwaysData/main/config.json
 wget -q -O $TMP_DIRECTORY/v2ray-linux-64.zip https://github.com/v2fly/v2ray-core/releases/download/v4.45.0/v2ray-linux-64.zip
 unzip -oq -d $HOME $TMP_DIRECTORY/v2ray-linux-64.zip v2ray v2ctl geoip.dat geosite.dat geoip-only-cn-private.dat
 
