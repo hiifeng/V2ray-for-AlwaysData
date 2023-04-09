@@ -84,12 +84,12 @@ body {
 	  font-family: Geneva, Arial, Helvetica, san-serif;
     }
 div {
-	  margin: 0 auto;
-	  text-align: left;
+      margin: 0 auto;
+      text-align: left;
       white-space: pre-wrap;
       word-break: break-all;
       max-width: 80%;
-	  margin-bottom: 10px;
+      margin-bottom: 10px;
 }
 </style>
 </head>
