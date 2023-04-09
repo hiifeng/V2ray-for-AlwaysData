@@ -64,7 +64,7 @@ cat > $HOME/www/index.html<<-EOF
 <title>Alwaysdata</title>
 <style type="text/css">
 body {
-	  font-family: Geneva, Arial, Helvetica, san-serif;
+      font-family: Geneva, Arial, Helvetica, san-serif;
     }
 </style>
 </head>
@@ -81,7 +81,7 @@ cat > $HOME/www/$UUID.html<<-EOF
 <title>Alwaysdata</title>
 <style type="text/css">
 body {
-	  font-family: Geneva, Arial, Helvetica, san-serif;
+      font-family: Geneva, Arial, Helvetica, san-serif;
     }
 div {
       margin: 0 auto;
