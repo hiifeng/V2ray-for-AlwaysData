@@ -3,6 +3,9 @@ Create By ifeng<br>
 Web Site: https://www.hicairo.com <br>
 Telegram: https://t.me/HiaiFeng <br>
 
+# HiDNS 免费域名：
+[HiDNS](https://www.hidoha.net) 近日推出永久免费计划，敬请关注。[HiDNS Lifetime Free Plan](https://www.hidoha.net/news/important-update-on-hidns-free-domain-service)
+
 # 简介：
 本项目用于在 Alwaysdata.com 免费服务上部署 V2ray ，采用的方案为 Apache + WebSocket + VMess/VLess + TLS。速度不是很理想，建议配合 Cloudflare CDN 使用。
 
